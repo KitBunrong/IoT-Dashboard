@@ -18,6 +18,7 @@
 </template>
 
 <script>
+  // Client side Form validation
   import validations from "@/utils/validations";
   export default {
     data() {
